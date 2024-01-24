@@ -14,4 +14,6 @@ J'ai choisi le programme TIM, entre autres parce que, comme beaucoup d'autres, j
 
 Les exemples ci-dessus ne sont que quelques-unes des raisons qui m'ont poussé à intégrer le programme de par mon gout prononcé à élargir mes connaissances générales dans un domaine que j'aime. Bien sûr, étant une personne prévoyante, j'ai aussi pris en conte que le domaine multimédia est présent dans tous les domaine de travail et donc que cette technique me donnera une sécurité financière. 🤑
 
-.//maface.jpg
+## Photo
+![maface](https://github.com/MPC225/H24_V11_inspirations_PALLUELCORMIER/assets/143211780/a1c0cebf-d8cb-4f4f-a197-86c389e5877c)
+
